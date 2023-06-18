@@ -86,7 +86,7 @@
 
 		<dependency>
 			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet:javax.servlet-api:jar</artifactId>
+			<artifactId>javax.servlet:javax.servlet-api:jar -> version
 			<version>3.1.0</version>
 			<scope>provided</scope>
 		</dependency>
